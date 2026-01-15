@@ -19,7 +19,7 @@ Atualmente, estou cursando Ciencia da Computação na IBMR. </br>
 📚 Typescript </br>
 📚 C <br>
 Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias.</br>
-<a href="https://www.linkedin.com/in/julia-victoria-6403b721b/">⚪Linkedln</a>
+<a href="https://www.linkedin.com/in/julia-victoria-6403b721b/" target="_blank">⚪Linkedln</a>
 <p align="left">
     <a href="https://github.com/juliavictoriasl?tab=repositories&sort=stargazers">
         <img 
