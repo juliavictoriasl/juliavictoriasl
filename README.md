@@ -1,16 +1,78 @@
-## Hi there 👋
+# Oi! Eu sou a Júlia ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Criando,+aprendendo+e+evoluindo!" alt="Typing SVG" />
+</p>
 
-<!--
-**juliavictoriasl/juliavictoriasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Web`**
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+  		src="https://i.pinimg.com/736x/fb/d6/eb/fbd6eb5b43054b7f0a98c2ed7be6074b.jpg" width ="200"
+  />
+</
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Júlia Victoria, tenho 20 anos e sou natural do Rio de Janeiro. </br>
+Atualmente, estou cursando Ciencia da Computação na IBMR. </br>
+📖 Estudando: </br>
+📚 React
+📚 Typescript
+📚 C <br>
+Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias.
+
+<p align="left">
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/juliavictoriasl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/juliavictoria?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+
+<p align="center">
+  <img
+  		src="https://i.pinimg.com/originals/fb/4f/c9/fb4fc97e9ae190c742cfc1a9b90a9fb6.gif"
+  />
+</
