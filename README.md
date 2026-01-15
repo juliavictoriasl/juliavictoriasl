@@ -14,21 +14,21 @@
 
 Me chamo Júlia Victoria, tenho 20 anos e sou natural do Rio de Janeiro. </br>
 Atualmente, estou cursando Ciencia da Computação na IBMR. </br>
-📖 Estudando: </br>
-📚 React
-📚 Typescript
+📖 **Estudando**: </br>
+📚 React </br>
+📚 Typescript </br>
 📚 C <br>
-Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias.
-
+Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias.</br>
+<a href="https://www.linkedin.com/in/julia-victoria-6403b721b/">⚪Linkedln</a>
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/juliavictoriasl?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/juliavictoriasl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/juliavictoriasl?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
