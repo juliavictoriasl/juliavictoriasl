@@ -1,6 +1,6 @@
 # Oi! Eu sou a Júlia ✨
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Criando,+aprendendo+e+evoluindo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&color=FF69B4&lines=Bem-vindo+ao+meu+perfil!;Welcome+to+my+dev+world!" alt="Typing SVG" />
 </p>
 
 **`Desenvolvedora Web`**
@@ -14,12 +14,12 @@
 
 Me chamo Júlia Victoria, tenho 20 anos e sou natural do Rio de Janeiro. </br>
 Atualmente, estou cursando Ciencia da Computação na IBMR. </br>
-📖 **Estudando**: </br>
+📖 **O que estou aprendendo?** </br>
 📚 React </br>
 📚 Typescript </br>
 📚 C <br>
 Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias.</br>
-<a href="https://www.linkedin.com/in/julia-victoria-6403b721b/" target="_blank">⚪Linkedln</a>
+<a href="https://www.linkedin.com/in/julia-victoria-6403b721b/">⚪Linkedln</a>
 <p align="left">
     <a href="https://github.com/juliavictoriasl?tab=repositories&sort=stargazers">
         <img 
